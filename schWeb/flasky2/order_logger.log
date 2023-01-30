@@ -1,0 +1,3 @@
+2023-01-28 12:57:50,479 INFO get new order content = {"ordernum":"SAP23012800002","cupcount":1,"content":[{"cupnum":"0002-01","stationa":"00","stationb":"01000200030004000500","stationc":"01000200030004000500","stationd":"01000200030004000500","statione":"01000200030004180500","stationf":"01000200030004000500"}]}
+2023-01-28 12:57:50,605 INFO response={"jsonrpc": "2.0", "result": "get order", "id": 1}
+2023-01-28 12:57:50,606 INFO order/SAP23012800002.txt move to order_send
